@@ -1,2 +1,2 @@
-# hello-world
-ni hao shi jie
+# ImageClassification
+Image classification using SIFT features with SVM
